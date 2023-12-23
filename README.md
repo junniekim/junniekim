@@ -11,7 +11,7 @@
 - 📫 How to reach me: junniekim12@gmail.com
 
 - 📄 Know about my experiences: <a href="https://sijunkim.net">sijunkim.net</a>
-<br><br><br><br>
+<br><br><br><br><br>
 <hr/>
 
 <h3 align="center">Languages and Tools:</h3>
