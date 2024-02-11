@@ -26,7 +26,7 @@
 <h4 align="center">Frontends</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,angular,bootstrap,gatsby" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,angular,bootstrap,gatsby,sass" />
   </a>
 </p>
 
