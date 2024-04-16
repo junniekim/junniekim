@@ -6,8 +6,8 @@
 <br><br><br>
 
 
-- 🔭 I’m currently working on a dog Tinder where dogs can find walk buddies
-- 🌱 I’m currently learning Ruby on Rails
+- 🔭 I’m currently working on a workout tracking web application called Mooscles where dogs can find walk buddies
+- 🌱 I’m currently learning Postgres
 - 📫 How to reach me: junniekim12@gmail.com
 
 - 📄 Know about my experiences: <a href="https://sijunkim.net">sijunkim.net</a>
