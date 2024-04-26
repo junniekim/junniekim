@@ -19,27 +19,27 @@
 <h4 align="center">Backends</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,py,express,ruby,graphql,swift,cs" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,py,express,ruby" />
   </a>
 </p>
 
 <h4 align="center">Frontends</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,angular,bootstrap,gatsby,sass" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,angular,bootstrap,gatsby,sass" />
   </a>
 </p>
 
 <h4 align="center">Database</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
   </a>
 </p>
 <h4 align="center">Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,bash,idea,jenkins,visualstudio,vite" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,bash,jenkins,visualstudio,vite" />
   </a>
 </p>
 
