@@ -9,8 +9,6 @@
 - 🔭 I’m currently working on a workout tracking web application called Mooscles 
 - 🌱 I’m currently learning Postgres
 - 📫 How to reach me: Use the contacts form on <a href="https://sijunkim.net">my personal webpage</a>
-
-- 📄 Know about my experiences: <a href="https://sijunkim.net">sijunkim.net</a>
 <br><br><br><br><br>
 <hr/>
 
